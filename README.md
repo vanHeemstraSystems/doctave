@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+doctave
+# Doctave - Author, review, and publish Markdown and API docs with a Git-based docs-as-code workflow
 
-Based on "ABC" at https://www.abc.com/
+Based on "Doctave" at https://doctave.com/
 
 ## 100 - Introduction
 
